@@ -1,13 +1,11 @@
-Gerador de senha
-Feito seguindo o passo a passo da video "Como fazer um GERADOR DE SENHA aleatória | HTML, CSS e JavaScript", da Larissa Kich.
+<h1> Gerador de senha </h1>
+Projeto feito seguindo o passo a passo do vídeo "Como fazer um GERADOR DE SENHA aleatória | HTML, CSS e JavaScript", da <strong>Larissa Kich.</strong>
 
-Foram usados nesse projeto:
-HTML
-CSS
-JavaScript
-Toastify - Para os alertas
+<h3> Foram usados nesse projeto:</h3>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Toastify - Para os alerts</li><br>
 
-
-
-Link canal Larissa Kich: 
-Link: https://www.youtube.com/watch?v=L7d6VdI8Cnk
+<strong> Link canal Larissa Kich: </strong> https://www.youtube.com/@larissakich </br>
+<strong> Link do vídeo: </strong> https://www.youtube.com/watch?v=L7d6VdI8Cnk 
